@@ -7,7 +7,7 @@ const Header = () => {
       <ul>
         <li>HW20 - Dad Jokes (Google Cloud function) {}</li>
         <li>
-          <a href="https://github.com/bentzen-andy/hw20-dad-jokes-simple">
+          <a href="https://github.com/bentzen-andy/hw20-dad-jokes-cloud-function">
             Github
           </a>
         </li>
