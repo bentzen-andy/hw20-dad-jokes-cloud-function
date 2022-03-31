@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.bfebc3f9.css",
-    "main.js": "/static/js/main.126b6adf.js",
-    "index.html": "/index.html",
-    "main.bfebc3f9.css.map": "/static/css/main.bfebc3f9.css.map",
-    "main.126b6adf.js.map": "/static/js/main.126b6adf.js.map"
+    "main.css": "/hw20-dad-jokes-cloud-function/static/css/main.bfebc3f9.css",
+    "main.js": "/hw20-dad-jokes-cloud-function/static/js/main.126b6adf.js",
+    "index.html": "/hw20-dad-jokes-cloud-function/index.html",
+    "main.bfebc3f9.css.map": "/hw20-dad-jokes-cloud-function/static/css/main.bfebc3f9.css.map",
+    "main.126b6adf.js.map": "/hw20-dad-jokes-cloud-function/static/js/main.126b6adf.js.map"
   },
   "entrypoints": [
     "static/css/main.bfebc3f9.css",
