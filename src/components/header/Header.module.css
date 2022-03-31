@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  height: 5rem;
+  background-color: #319647;
+  color: #fff;
+}
+
+.header ul {
+  display: flex;
+  list-style: none;
+  margin: 0rem;
+  padding: 0rem;
+}
+
+.header li {
+  font-size: 1.5rem;
+  margin: 1.25rem;
+  margin-left: 2rem;
+}
+
+.header a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #ffffff;
+}
+.header a:hover {
+  color: #76d18a;
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+}
